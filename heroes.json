@@ -1,24 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": 1,
-      "name": "Первый герой",
-      "description": "Первый герой в рейтинге!",
-      "element": "fire"
-    },
-    {
-      "id": "d4f18f6b-816e-4098-9c21-a2fee86cdd25",
-      "name": "214214321",
-      "description": "weqweqw12312",
-      "element": "water"
-    },
-    {
-      "id": "21d59864-3bcb-4169-8c8a-b9a05cf4fce6",
-      "name": "qwqw",
-      "description": "ewrefwefe",
-      "element": "wind"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "name": "all",
